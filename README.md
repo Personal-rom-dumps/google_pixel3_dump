@@ -1,0 +1,14 @@
+# blueline-user 12 SPB3.210618.013 7533405 release-keys
+- manufacturer: 
+- platform: msm8953
+- codename: rosy
+- flavor: blueline-user
+- release: 12
+- id: SPB3.210618.013
+- incremental: 7533405
+- tags: release-keys
+- fingerprint: google/redfin/redfin:11/RQ2A.210505.003/7255357:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: blueline-user-12-SPB3.210618.013-7533405-release-keys
+- repo: xiaomi_rosy_dump
