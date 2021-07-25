@@ -1,0 +1,4 @@
+<permissions>
+            <library name="com.google.widevine.software.drm"
+                file="/system/product/framework/com.google.widevine.software.drm.jar"/>
+        </permissions>

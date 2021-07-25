@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <feature name="android.hardware.microphone.toggle" />
+    <feature name="android.hardware.camera.toggle" />
+    <feature name="com.google.android.feature.GAME_OVERLAY" />
+</permissions>

@@ -1,0 +1,10 @@
+(typeattributeset debugfs_system_ion_heap_31_0 (debugfs_system_ion_heap))
+(expandtypeattribute (debugfs_system_ion_heap_31_0) true)
+(typeattribute debugfs_system_ion_heap_31_0)
+(typeattributeset dataservice_app_31_0 (dataservice_app))
+(expandtypeattribute (dataservice_app_31_0) true)
+(typeattribute dataservice_app_31_0)
+(typeattributeset hal_pixelstats_hwservice_31_0 (hal_pixelstats_hwservice))
+(expandtypeattribute (hal_pixelstats_hwservice_31_0) true)
+(typeattribute hal_pixelstats_hwservice_31_0)
+
